@@ -1,0 +1,137 @@
+.kos {
+    background-color: grey;
+    padding: 50px;
+    background-image: url(../img/umo1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
+
+
+.carousel {
+    padding: 10px;
+}
+
+.hotel {
+    margin-top: -10px;
+}
+
+/* bagan2 millenial */
+
+.row {
+    margin-top: 30px;
+}
+
+.bagan2 {
+    font-size: 13px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.bagan2 p {
+    margin-top: -5px;
+}
+
+.bagan2 .paket {
+    margin-top: 20px;
+}
+
+.bagan2 a {
+    color: #408400;
+    text-decoration: none;
+}
+
+.bagan2 a:hover {
+    text-decoration: underline;
+}
+
+/* bagan 3 */
+
+.row .bagan3 {
+    margin-top: -10px;
+}
+
+.collapse {
+    font-size: 13px;
+}
+
+.collapse p {
+    margin-top: -10px;
+}
+
+.isi {
+    margin-top: 8px;
+}
+
+.btn {
+    margin-top: -10px;
+}
+
+.card-title p {
+    margin-top: 6px;
+    font-weight: bold;
+    font-size: 13px;
+}
+.card-body p {
+  margin-top: -10px;
+
+}
+
+.dropdown-menu a:hover {
+    background-color: rgb(53, 53, 253);
+
+}
+
+/* footer */
+
+.deskripsi .judul a {
+    font-size: 14px;
+    text-decoration: none;
+    color: #408600;
+  }
+  
+  .judul a:hover {
+    text-decoration: underline;
+  }
+  
+  .deskripsi .harga {
+    font-size: 14px;
+    color: salmon;
+  }
+  
+  .deskripsi .waktu{
+    font-size: 12px;
+    color: #717171;
+  } 
+  
+  .social a {
+    color: white;
+    text-decoration: none;
+  
+  }
+  
+  .social a:hover {
+    text-decoration: underline;
+  }
+  
+  .infomation a {
+    color: white;
+    text-decoration: none;
+  
+  }
+  
+  .infomation a:hover {
+    text-decoration: underline;
+  }
+  
+  .info {
+    font-size: 15px;
+  }
+  
+  footer .copy {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    margin-top: 30px;
+  }

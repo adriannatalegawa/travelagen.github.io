@@ -1,0 +1,186 @@
+body {
+    min-height: 2000px;
+}
+
+
+.cover {
+    background-image: url(../img/umo5.jpg);
+    background-repeat: no-repeat;
+    background-size : cover;
+    background-position-y: -100px;
+    height: 600px;
+    
+
+    padding: 100px 0;
+   
+  
+
+
+}
+
+/* section 2 */
+
+.introduction {
+    background-color: #d5d2d2;
+    
+    padding: 100px 0;
+  }
+  
+  .introduction h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    
+  }
+  
+  .introduction p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 30px;
+  }
+  
+ 
+
+/* akhir section 2 */
+
+
+ /* section 4 */
+
+ .card-text {
+    font-size: 12px;
+    color: #717171;
+ }
+
+ .card h5 a {
+    text-decoration: none;
+ }
+
+ .card-body h5 {
+  font-size: 16px;
+ }
+
+ /* akhir section 4 */ 
+
+ .harga1 {
+  font-size: 20px;
+  color: salmon;
+  margin-top: -15px;
+ }
+
+ .text-break {
+  display: inline-block;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  word-break: break-word;
+}
+
+.card-body h5 a {
+  color: #408600;
+}
+
+/* services */
+
+.services {
+  padding-bottom: 40px;
+  padding-top: 70px;
+}
+ 
+/* gallery */
+
+.gallery {
+  
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: white;
+}
+
+.gallery a {
+  text-decoration: none;
+  color: white;
+}
+
+.gallery a:hover {
+  text-decoration: underline;
+  
+}
+ 
+.gallery img {
+  width: 200px;
+  height: 200px;
+}
+
+.gallery h3 {
+  margin-bottom: 30px;
+}
+
+.testimoni {
+  background-image: url(../img/langit.jpg); 
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+  
+  
+}
+
+
+
+/* dokumentasi */
+
+.dokumentasi {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+/* footer */
+
+.deskripsi .judul a {
+  font-size: 14px;
+  text-decoration: none;
+  color: #408600;
+}
+
+.judul a:hover {
+  text-decoration: underline;
+}
+
+.deskripsi .harga {
+  font-size: 14px;
+  color: salmon;
+}
+
+.deskripsi .waktu{
+  font-size: 12px;
+  color: #717171;
+} 
+
+.social a {
+  color: white;
+  text-decoration: none;
+
+}
+
+.social a:hover {
+  text-decoration: underline;
+}
+
+.infomation a {
+  color: white;
+  text-decoration: none;
+
+}
+
+.infomation a:hover {
+  text-decoration: underline;
+}
+
+.info {
+  font-size: 15px;
+}
+
+footer .copy {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: black;
+  margin-top: 30px;
+}
