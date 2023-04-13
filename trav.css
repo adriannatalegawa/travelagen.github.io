@@ -4,7 +4,7 @@ body {
 
 
 .cover {
-    background-image: url(../img/umo5.jpg);
+    background-image: url(img/umo5.jpg);
     background-repeat: no-repeat;
     background-size : cover;
     background-position-y: -100px;
@@ -115,7 +115,7 @@ body {
 }
 
 .testimoni {
-  background-image: url(../img/langit.jpg); 
+  background-image: url(img/langit.jpg); 
   background-repeat: no-repeat;
   background-size: cover;
  
