@@ -45,6 +45,11 @@ body {
 
  /* section 4 */
 
+.services .card img {
+    width: 200px;
+    height: 200px;
+}
+
  .card-text {
     font-size: 12px;
     color: #717171;
